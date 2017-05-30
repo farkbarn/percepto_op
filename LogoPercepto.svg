@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="LogoPercepto.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3347">
+      <stop
+         style="stop-color:#e14e68;stop-opacity:1"
+         offset="0"
+         id="stop3349" />
+      <stop
+         style="stop-color:#f17e52;stop-opacity:1"
+         offset="1"
+         id="stop3351" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3347"
+       id="linearGradient3357"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(442.97419,-387.08791)"
+       x1="1844.8346"
+       y1="254.49069"
+       x2="1554.8765"
+       y2="254.49069" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8717006"
+     inkscape:cx="434.83169"
+     inkscape:cy="404.5586"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1916"
+     inkscape:window-height="1057"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       id="g3359"
+       transform="translate(-1616.5072,669.38857)">
+      <text
+         transform="scale(0.97608668,1.0244992)"
+         sodipodi:linespacing="125%"
+         id="text3337"
+         y="306.02679"
+         x="2193.2512"
+         style="font-style:normal;font-weight:normal;font-size:144.02096558px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#403e3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:148.81843567px;font-family:Kaleko105RoundW01-Heavy;-inkscape-font-specification:'Kaleko105RoundW01-Heavy Heavy';fill:#403e3f;fill-opacity:1"
+           y="306.02679"
+           x="2193.2512"
+           id="tspan3339"
+           sodipodi:role="line">PERCEPTO</tspan></text>
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient3357);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 2057.159,-294.26332 c -18.1882,0 -33.5749,5.88529 -44.0332,16.93945 -10.4582,11.05417 -15.625,26.694 -15.625,44.72071 l 0,77.83984 -0.332,88.0293 c -0.3465,29.38058 -1.5656,77.39681 -1.3203,106.60546 0.1537,18.29772 -1.2494,38.85032 2.2129,57.35547 1.5663,8.37122 4.3409,16.33492 10.5156,22.12891 4.4163,4.14398 10.6574,6.64914 17.4258,6.70312 7.1704,0.0572 13.7168,-1.38718 19.1855,-4.80859 6.4646,-4.04448 10.8585,-10.31753 14.4747,-17.85352 6.6338,-13.82493 11.5287,-32.98381 20.9882,-60.12109 9.614,-27.58006 15.8682,-45.9583403 23.7715,-56.0625 7.9033,-10.10415 16.979,-14.04492 38.6641,-14.04492 l 86.1855,0 c 18.1882,0 33.5764,-5.88195 44.0352,-16.93555 10.4588,-11.0536 15.625,-26.6958 15.625,-44.72265 l 0,-144.11328 c 0,-18.02686 -5.1663,-33.66663 -15.625,-44.72071 -10.4587,-11.05407 -25.8469,-16.93945 -44.0352,-16.93945 l -172.1133,0 z m 0,16 172.1133,0 c 14.8626,0 25.3054,4.42224 32.4141,11.93555 7.1086,7.5133 11.2461,18.70069 11.2461,33.72461 l 0,144.11328 c 0,15.02391 -4.1376,26.21374 -11.2461,33.72656 -7.1086,7.51281 -17.5513,11.93164 -32.4141,11.93164 l -86.1855,0 c -24.0725,0 -40.4069,6.30241 -51.2676,20.1875 -10.8607,13.8850897 -16.7225,33.24369 -26.2773,60.6543 -9.6497,27.68252 -14.9322,47.26849 -20.3047,58.46484 -2.9287,6.10317 -5.6247,9.39004 -8.5352,11.21094 -2.4621,1.54036 -5.4819,2.41364 -10.5703,2.37304 -3.352,-0.0267 -4.9608,-0.82783 -6.6055,-2.37109 -2.2996,-2.15785 -4.5035,-6.8032 -5.7382,-13.40234 -2.8995,-15.49683 -1.7809,-35.43534 -1.9415,-54.54883 -0.2402,-28.61113 0.973,-76.66775 1.3223,-106.2832 a 8.0008,8.0008 0 0 0 0,-0.0625 l 0.332,-88.10743 a 8.0008,8.0008 0 0 0 0,-0.0312 l 0,-77.85546 c 0,-15.02407 4.138,-26.2114 11.2461,-33.72461 7.1082,-7.51322 17.5496,-11.93555 32.4121,-11.93555 z"
+         id="path3355"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
